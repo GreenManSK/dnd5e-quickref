@@ -166,6 +166,13 @@
     color: ForestGreen;
 }
 
+#section-pc-abilities, #section-pc-abilities .item-icon {
+    background-color: palevioletred;
+    border-color: palevioletred;
+}
+#section-pc-abilities .text {
+    color: palevioletred;
+}
 
 /* ------------------------------------------------------------------------- */
 /* Page container */
