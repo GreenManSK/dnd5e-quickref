@@ -266,6 +266,15 @@ p:first-child {
     border-top: 1px solid #e5e5e5;
 }
 
+.dm-screen {
+    clear: both;
+    display: block;
+    text-align: center;
+}
+
+.dm-screen img {
+    max-width: 100%;
+}
 
 /* ------------------------------------------------------------------------- */
 /* Viewport sizes */
